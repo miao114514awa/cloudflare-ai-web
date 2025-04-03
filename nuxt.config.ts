@@ -14,15 +14,15 @@ export default defineNuxtConfig({
     },
     app: {
         head: {
-            title: 'CF AI Web',
+            title: 'Culip的AI小破站',
             meta: [
                 {
                     name: 'keywords',
-                    content: 'CF AI Web, AI, Cloudflare Workers, ChatGPT, GeminiPro, Google Generative AI'
+                    content: 'Culip, AI, Cloudflare, ChatGPT, GeminiPro, Google Generative AI'
                 },
                 {
                     name: 'description',
-                    content: 'Integrated web platform supporting Gemini Pro/Cloudflare Workers AI/ChatGPT by Jazee6'
+                    content: '一个提供免费AI的网站（当然仅是一点点）'
                 }
             ],
             link: [
