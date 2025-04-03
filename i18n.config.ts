@@ -4,7 +4,7 @@ export default defineI18nConfig(() => ({
         zh: {
             setting: '设置',
             use_own_key: '使用自己的key',
-            new_chat: '新建对话',
+            new_chat: '新对话',
             input_password: '请输入访问密码',
             confirm: '确定',
             with_history: '发送时携带历史记录',
@@ -17,7 +17,7 @@ export default defineI18nConfig(() => ({
             text_generation: '文本生成',
             image_generation: '图像生成',
             system_prompt: '系统提示',
-            universal: '多模',
+            universal: '多模型',
         },
         en: {
             setting: 'Setting',
