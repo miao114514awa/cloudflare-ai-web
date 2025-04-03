@@ -99,11 +99,6 @@ export const imageGenModels: Model[] = [{
     name: 'stable-diffusion-xl-base-1.0',
     provider: 'workers-ai-image',
     type: 'text-to-image'
-}, {
-    id: '@cf/bytedance/stable-diffusion-xl-lightning',
-    name: 'stable-diffusion-xl-lightning',
-    provider: 'workers-ai-image',
-    type: 'text-to-image'
 }]
 
 export const models: Model[] = [...uniModals, ...textGenModels, ...imageGenModels]
