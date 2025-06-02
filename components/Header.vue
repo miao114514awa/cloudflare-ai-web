@@ -17,7 +17,7 @@ function handleReload() {
   location.reload()
 }
 </script>
-
+<meta name="msvalidate.01" content="F2E09A428B8B328F5D804348FD305263" />
 <template>
   <header class="blur-global dark:bg-neutral-800 shadow h-16 fixed w-full z-30 rounded-b-lg">
     <UContainer class="h-full flex items-center">
